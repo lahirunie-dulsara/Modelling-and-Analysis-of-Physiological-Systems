@@ -27,7 +27,7 @@ This repository contains a collection of simulation-based experiments completed 
 ## How to Use
 1. Clone this repository:
    ``bash
-   git clone https://github.com/your-username/physiological-systems-experiments.git
+   git clone https://github.com/lahirunie-dulsara/Modelling-and-Analysis-of-Physiological-Systems.git
 
 2. Navigate into each experiment folder for specific instructions and code.
 
